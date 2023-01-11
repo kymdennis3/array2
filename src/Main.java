@@ -1,8 +1,11 @@
 public class Main {
     public static void main(String[] args) {
 
-        String [] cars = {"Camaro", "Tesla", "Ford"};
-        cars[0]= "Toyota";
-        System.out.println(cars[0]);
+        String [] cars = new String[3];
+
+        cars[0]= "Ford";
+        cars[1]= "Mustang";
+        cars[2]= "Camaro";
+        System.out.println(cars[1]);
     }
 }
