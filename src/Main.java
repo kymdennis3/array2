@@ -6,6 +6,10 @@ public class Main {
         cars[0]= "Ford";
         cars[1]= "Mustang";
         cars[2]= "Camaro";
-        System.out.println(cars[1]);
+
+        for(int i= 0; i<cars.length; i++){
+            System.out.println(cars[i]);
+
+        }
     }
 }
