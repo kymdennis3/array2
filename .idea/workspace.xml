@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59675004-8b45-4741-a280-6e6976613f8e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="59675004-8b45-4741-a280-6e6976613f8e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,12 +54,20 @@
       <option name="project" value="LOCAL" />
       <updated>1673408670021</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="using for loop to iterate all the elements in an array">
+      <created>1673408995598</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673408995598</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="reassigning a variable in the array" />
     <MESSAGE value="An optional way of writing array" />
-    <option name="LAST_COMMIT_MESSAGE" value="An optional way of writing array" />
+    <MESSAGE value="using for loop to iterate all the elements in an array" />
+    <option name="LAST_COMMIT_MESSAGE" value="using for loop to iterate all the elements in an array" />
   </component>
 </project>
